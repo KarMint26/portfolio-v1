@@ -1,0 +1,32 @@
+{
+  "theme_color": "rgb(255, 94, 0)",
+  "background_color": "rgb(255, 94, 0)",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/index.html",
+  "name": "Karel Trisnanto Utomo",
+  "short_name": "Karel",
+  "description": "I'm a Software Engineer from Indonesia, my favorite programming language is JavaScript. I'm have more knowledge about next.js and react from JavaScript libary and JavaScript Framework.",
+  "icons": [
+    {
+      "src": "src/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "src/manifest/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "src/manifest/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "src/manifest/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
