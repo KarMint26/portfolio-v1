@@ -384,6 +384,10 @@ img {
   width: 85%;
 }
 
+.skills__ts {
+  width: 70%;
+}
+
 .skills__img {
   border-radius: 0.5rem;
 }
